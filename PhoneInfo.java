@@ -16,6 +16,7 @@ System.out.println("Mac");
 	}private void osName() {
 		// TODO Auto-generated method stub
 		System.out.println("ios");
+		System.out.println("ios");
 	}
 	public static void main(String[] args) {
 		PhoneInfo in = new PhoneInfo();
